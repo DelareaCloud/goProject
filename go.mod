@@ -2,7 +2,7 @@ module goproject
 
 go 1.19
 
-require github.com/gin-gonic/gin v1.7.3
+require github.com/gin-gonic/gin v1.7.7
 
 require (
 	github.com/gin-contrib/sse v0.1.0 // indirect
